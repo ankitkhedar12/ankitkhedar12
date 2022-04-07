@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 
 
-📫  How to reach me **ankitkhedar12@gmail.com@gmail.com**
+📫  How to reach me **ankitkhedar12@gmail.com**
 <br>
 <br>
 
