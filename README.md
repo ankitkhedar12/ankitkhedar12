@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka23g&layout=compact&langs_count=8" alt="anushka23g" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkhedar12&show_icons=true&locale=en" alt="ankitkhedar12" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkhedar12&layout=compact&langs_count=8" alt="ankitkhedar12" />
 </p>
 <br>
 <br>
