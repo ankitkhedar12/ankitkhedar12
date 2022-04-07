@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">Hi 👋, I'm ANKIT KHEDAR</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Computer Science Engineer from India</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
 
@@ -31,24 +31,24 @@ Here are some ideas to get you started:
 <br>
 
 
-🔭  I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
+🔭  I’m currently working on Data Analysis.
 
-👯  I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
+👯  I’m looking to collaborate on Data Visualization
 
-💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
+💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
-🐣  My latest repository, [Tech-interviews-Prep](https://github.com/anushka23g/Complete-Placement-Preparation), ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
+🐣  My latest repository, [Google-Analytics-Case-Study-1](https://github.com/ankitkhedar12/Google-Analytics-Case-Study-1), ****** ❤️
 <br>
 
 
-📫  How to reach me **anushkagupta20128@gmail.com**
+📫  How to reach me **ankitkhedar12@gmail.com@gmail.com**
 <br>
 <br>
 
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/anushka-gupta-679496196" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="anushka-gupta-679496196" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/anushka23g" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="anushka23g" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ankitkhedar12/" target="blank"><img align="center" " height="50" width="50" /></a>
+<a href="https://github.com/ankitkhedar12" target="blank"><img align="center" alt="" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">⭐ Languages and Tools:</h3>
