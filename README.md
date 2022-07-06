@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <h1 align="center">Hi 👋, I'm ANKIT KHEDAR</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <br>
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <br>
 
 
-🔭  I’m currently working on Data Analysis.
+🔭  I’m currently working on Data Analysis and Web Development.
 
-👯  I’m looking to collaborate on Data Visualization
+👯  I’m looking to collaborate on Data Visualization.
 
 💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="left">⭐ Connect with me:</h3>
+<h2 align="left"> Connect with me:</h2>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/ankitkhedar12/" target="blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" align="center" " height="50" width="50" /></a>
-<a href="https://github.com/ankitkhedar12" target="blank"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" align="center" alt="" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ankitkhedar12/" target="blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" align="center" " height="50" width="50"></a>
+<a href="https://github.com/ankitkhedar12" target="blank"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" align="center" alt="" height="50" width="50" ></a>
 </p>
 
-<h3 align="left">⭐ Languages and Tools:</h3>
+<h2 align="left"> Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/c++1.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/css.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/html.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/js.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://amanguptaofficial.netlify.app/images/sql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/en/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <br>
