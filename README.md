@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/ankitkhedar12/" target="blank"><img align="center" " height="50" width="50" /></a>
-<a href="https://github.com/ankitkhedar12" target="blank"><img align="center" alt="" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ankitkhedar12/" target="blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" align="center" " height="50" width="50" /></a>
+<a href="https://github.com/ankitkhedar12" target="blank"><img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" align="center" alt="" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">⭐ Languages and Tools:</h3>
