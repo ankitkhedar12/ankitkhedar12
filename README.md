@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55px">
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55px"> </h1>
 <h1 align="center"> I'm ANKIT KHEDAR</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkhedar12" /> </p>
 
 <br>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 
 
-🔭  I’m currently working on Data Analysis and Web Development.
+🔭  I’m currently working on Full Stack Web Development.
 
 👯  I’m looking to collaborate on Data Visualization.
 
