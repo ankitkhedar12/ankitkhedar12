@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🔭  I’m currently working on Full Stack Web Development.
 
-👯  I’m looking to collaborate on Data Visualization.
+👯  I’m looking to collaborate on BackEnd of Some Projects.
 
 💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
