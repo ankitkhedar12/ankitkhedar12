@@ -57,3 +57,9 @@ Here are some ideas to get you started:
 <br>
  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkhedar12&" alt="anushka23g" /></p>
+
+
+[![Khedar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitkhedar12&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/RaveenaBhasin/github-readme-activity-graph)
+<br>
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Pradhuman-singh5/count.svg" alt="Visitor Count" /></h2>
+<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
