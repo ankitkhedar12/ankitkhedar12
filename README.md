@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
-🐣  My latest repository, [Google-Analytics-Case-Study-1](https://github.com/ankitkhedar12/Google-Analytics-Case-Study-1)
+🐣  My latest repository [Photo-Gallery](https://github.com/ankitkhedar12/Photo-Gallery)
 <br>
 
 
