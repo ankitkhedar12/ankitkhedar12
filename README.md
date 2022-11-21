@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px" height="55px"> </h1>
 <h1 align="center"> I'm ANKIT KHEDAR</h1>
-<h3 align="center">A passionate Sofftware Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitkhedar12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkhedar12" /> </p>
 
