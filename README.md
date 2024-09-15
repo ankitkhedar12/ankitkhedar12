@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
-🐣  My latest repository [Digital Clock](https://github.com/ankitkhedar12/Digital_Clock)
 <br>
 
 
