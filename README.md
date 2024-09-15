@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 <br>
  <!-- <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Pradhuman-singh5/count.svg" alt="Visitor Count" /></h2>  -->
-<h3 align="center">Spread the love by starring a few of my repositories!:heart:</h3>
+<h3 align="center">Spread the love by starring a few of my repositories! :heart:</h3>
