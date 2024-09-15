@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 
 💻  All of my projects are available at [https://github.com/ankitkhedar12](https://github.com/ankitkhedar12)
 
-<br>
-
-
 📫  How to reach me **ankitkhedar12@gmail.com**
 <br>
 <br>
