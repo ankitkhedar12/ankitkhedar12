@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 
-🔭  I’m currently working on Full Stack Web Development.
+🔭  I’m currently working on Full Stack Web/App Development.
 
 <!-- 👯  I’m looking to collaborate on BackEnd of Some Projects. -->
 
